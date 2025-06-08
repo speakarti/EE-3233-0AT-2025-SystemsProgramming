@@ -1,10 +1,8 @@
 #!/bin/user/env python3
 import array as arr
-
 ##############################################
 # Lab Assignment 2 - Binary Search
 ##############################################
-
 
 ##############################################
 # function to search a val in an array between index:left and right
@@ -50,5 +48,4 @@ if __name__ == '__main__':
     print(binary_search(myarray, 3))
     print(binary_search(myarray, 7))
     print(binary_search(myarray, 11))
-    print(binary_search(myarray, 20))
-    print(binary_search(myarray, 25))
+    print(binary_search(myarray, 20))    

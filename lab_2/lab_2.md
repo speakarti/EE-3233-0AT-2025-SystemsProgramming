@@ -1,15 +1,27 @@
 ## ----------------------------------------------------------------------------
-## Lab Assignment 2: Binary Search
-# Arnav Gupta
-# Utsa abcID : Enp615
+# Lab Assignment 2: Binary Search
+## Name: **Arnav Gupta**
+## Utsa abcID : **Enp615**
 ## ----------------------------------------------------------------------------
-Source Code
-Execution Steps
-SummaryConclusion:
+**Abstract**: This lab is about writing a python program to perform binary search. I started with 1) setting up my developer environment. I installed VSCode, git, python3 and configured my VSCode environment with many suitable extensions like python, git, markdown etc. to enable me to make use of all SDLC best practices. futher I used python script that implements a recursive binary search algorithm to find a given value in a sorted integer array. for this I used python's in-built module 'array' which provides a space efficient homogenious storage for arrays.
 
 
+| File                  | Description                     |
+|-----------------------|---------------------------------|
+| [lab_2_binary-search.py](./lab_2_binary-search.py) | Contains the binary search functions |
 
 
+**Execution Steps**
+![Execution ScreenShots](./images/lab_2_binary-search_code-execution.jpg)
+
+**Conclusion**: I have leant the flow of executing python code in VScode (an IDE environment), python in-built array module, writing and calling basic functions in python and recursion concepts. With this I am feeling motivated to contine on my path of continous leaning.
+
+**Source Code**
+![Code ScreenShots](./images/lab_2_binary-search_py.jpg)
+
+
+## ----------------------------------------------------------------------------
+## Annexure - Assignment Details
 ## ----------------------------------------------------------------------------
 
 EE-323:Systems Programming for Engineers

@@ -1,3 +1,17 @@
+## ----------------------------------------------------------------------------
+## Lab Assignment 2: Binary Search
+# Arnav Gupta
+# Utsa abcID : Enp615
+## ----------------------------------------------------------------------------
+Source Code
+Execution Steps
+SummaryConclusion:
+
+
+
+
+## ----------------------------------------------------------------------------
+
 EE-323:Systems Programming for Engineers
 
 Teaching/Lab Assistant: Kriza Baby
@@ -6,10 +20,10 @@ kriza.baby@utsa.edu
 
 Lab Student Hour:  Friday 11:00am to 12:00pm
 
-Lab Assignment 2
+## Lab Assignment 2
 In this assignment your task is to implement a function to do binary search in a sorted array. This is more of a practice assignment for you to start coding with Python3.
 
-Binary Search
+### Binary Search
 Binary search is a relatively quick algorithm to find an index within a sorted (non-decreasing) array, whose value is equal, or almost equal, to a specified value. Thus, you define the function as:
 
 def binary_search(array, val):
@@ -65,10 +79,10 @@ print(binary_search(array, 20))
 
 Which prints 3, 7, -1, -1 on the terminal.
 
-Deliverables
+**Deliverables**
 Upload a unique PDF file with screenshots of your code and simulation output. Your PDF must include a simple header with your name and your abc123. Submit a file with your work even if you cannot replicate the output shown above.
 
-Grading
+**Grading**
 Full marks will be granted to students that replicate the output, or whose logic is correct.
 
 -1 point if you don’t include the header with your name and abc123 in your file.

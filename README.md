@@ -21,3 +21,13 @@ chmod 744 Activate
 ./Active
 
 where pip3
+
+Documentation 
+===============
+Markdown
+Markdown PDF by yzane
+Markdown All in One for core features
+Markdownlint if you're writing formal docs or collaborating
+
+pandoc .md → .pdf in CI/CD pipelines using a Pandoc Docker container or GitHub Actions,
+pandoc yourfile.md -o output.pdf --from markdown --template eisvogel
